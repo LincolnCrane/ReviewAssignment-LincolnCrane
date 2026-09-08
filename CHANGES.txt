@@ -1,1 +1,11 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+I added a link to skip the navbar and go to main content. (for keyboard users)
+I put the sections into a semantic element element, main, for the link to main content to work. 
+I added ids to the hrefs in the navbar so that it would go to the different sections of the page.
+I added arial labbeled by tags on the sections with headers to help users with screen readers. 
+I changed the get in touch button into a anchor link to the contact form. This way the button does does somethis when clicked
+I added aria labels to the form to help screen readers 
+I added a clear selection buttom on the form in case the user wants to start the form over 
+I increased the font size for p tags on the larger screen making them easier to read 
+I also increased the font size for the FAQ questions 
+I made the copyright text as well as the info subtitle text brighter to increase contrast
